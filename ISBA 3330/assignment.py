@@ -18,7 +18,6 @@ while True:
          celsius = (temp- 32) * .5556
     else: 
         celsius = temp
-
     if celsius > 20:
          print( "\nWear a hat")
     elif 10 <= celsius <= 20:
@@ -27,6 +26,7 @@ while True:
          print("\nWear a heavy jacket")
     else:
          print("Not a Valid Answer, Please try again. ")
+
 
     # if 90 <= temp <= 100:
     #     print("wear a hat")
