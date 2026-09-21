@@ -17,5 +17,5 @@ def main():
           print("\nWear a light jacket")
      else:
           print("\nWear a heavy jacket")
-if __name_Í_ == "__main__":
+     if __name_Í_ == "__main__":
     main()
